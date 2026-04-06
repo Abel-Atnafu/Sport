@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from "react";
-import "./index.css";
 
 const GOAL  = 60;
 const START = 65;
